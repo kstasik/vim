@@ -28,5 +28,7 @@ git clone https://github.com/mattn/emmet-vim ~/.vim/bundle/emmet-vim
 git clone https://github.com/ctrlpvim/ctrlp.vim ~/.vim/bundle/ctrlp
 git clone https://github.com/bkad/CamelCaseMotion ~/.vim/bundle/CamelCaseMotion
 
+# themes
 git clone https://github.com/morhetz/gruvbox.git ~/.vim/bundle/gruvbox
 git clone git://github.com/altercation/vim-colors-solarized.git ~/.vim/bundle/vim-colors-solarized
+git clone https://github.com/chriskempson/vim-tomorrow-theme ~/.vim/bundle/vim-tomorrow-theme

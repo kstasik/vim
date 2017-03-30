@@ -2,11 +2,10 @@
 execute pathogen#infect()
 filetype plugin indent on " required by Pathogen Plugin Manager
 
-" colors
-syntax enable
-set background=dark
-let g:solarized_termcolors=256
-colorscheme solarized
+" Theme
+syntax on
+set background=light
+colorscheme Tomorrow-Night
 
 " Use vim, not vi api
 set nocompatible
