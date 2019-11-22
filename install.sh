@@ -7,10 +7,6 @@ ln -s ~/.vim/.vimrc ~/.vimrc
 
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/chriskempson/base16-vim.git ~/.vim/bundle/base16-vim
-git clone git://github.com/shawncplus/phpcomplete.vim.git ~/.vim/bundle/phpcomplete.vim
-git clone git://github.com/arnaud-lb/vim-php-namespace.git ~/.vim/bundle/vim-php-namespace
-git clone git://github.com/craigemery/vim-autotag.git ~/.vim/bundle/vim-autotag
-git clone git://github.com/joonty/vdebug.git ~/.vim/bundle/vdebug
 git clone git://github.com/vim-scripts/ZoomWin.git ~/.vim/bundle/ZoomWin
 git clone git://github.com/gcmt/wildfire.vim.git ~/.vim/bundle/wildfire.vim
 git clone git://github.com/tpope/vim-surround.git ~/.vim/bundle/vim-surround

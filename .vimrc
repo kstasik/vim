@@ -127,6 +127,7 @@ set tags=.tags
 
 " mappings
 map <leader>' :NERDTreeToggle<cr>
+map <leader><leader> :NERDTreeFind<cr>
 map <leader>; <C-W>s
 map <leader>` <C-W>v
 
@@ -142,7 +143,7 @@ autocmd FileType php noremap <Leader>e :call PhpExpandClass()<CR>
 set tags=.tags
 
 " choose win
-map <Leader><Leader> :ChooseWin<cr>
+" map <Leader><Leader> :ChooseWin<cr>
 
 " file formats
 autocmd Filetype gitcommit setlocal spell textwidth=72
